@@ -1,0 +1,3 @@
+training/
+*.env
+../node_modules/
